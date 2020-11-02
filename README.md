@@ -1,3 +1,7 @@
+## Presentation Recording
+- https://fullerton.zoom.us/rec/share/tj1lSb3UQLy4hlZl7E5Vxy02oEjGGIBIZE5j83T1YTddYQxzeBPqbl48YUEaTI5x._qWqDUhx8K6KjPpD
+- password: 0kLC1f.U
+
 # HOW TO RUN
 - fork this repository & create your own branch
 - open vscode
